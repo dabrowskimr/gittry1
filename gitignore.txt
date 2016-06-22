@@ -1,4 +1,8 @@
 girls.txt
 men.txt
+<<<<<<< HEAD
 women.py
 love.txt
+=======
+women.py
+>>>>>>> 9a7b1c8ec47adf811f5ee957fd9c2f346eef46a5
